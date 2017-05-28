@@ -4,8 +4,8 @@
  * by Arduino.org team
  */
  
-#include "utility/w5500.h"
-#include "utility/socket.h"
+#include "w5500.h"
+#include "socket.h"
 
 static uint16_t local_port;
 

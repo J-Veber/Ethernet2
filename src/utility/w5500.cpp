@@ -15,7 +15,7 @@
 #include <string.h>
 #include "Arduino.h"
 
-#include "utility/w5500.h"
+#include "w5500.h"
 //#if defined(W5500_ETHERNET_SHIELD)
 
 // W5500 controller instance
